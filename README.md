@@ -8,4 +8,4 @@
   
   
   ##
-  ![Snake animation](https://github.com/rafaballerini/gaamarchi/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gaamarchi/gaamarchi/blob/output/github-contribution-grid-snake.svg)
