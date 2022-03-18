@@ -8,4 +8,3 @@
   
   
   ##
-  ![Snake animation](https://github.com/gaamarchi/gaamarchi/blob/output/github-contribution-grid-snake.svg)
