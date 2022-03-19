@@ -1,4 +1,4 @@
-### Oii!! aqui é o gabriel
+### Oii!! aqui é o gabriel marchi, estudandte de sistemas de informação
 
 <div align="center">
   <a href="https://github.com/gaamarchi">
