@@ -1,4 +1,4 @@
-### Oii!! aqui é o gabriel marchi, estudante de sistemas de informação
+### Oii!! aqui é o gabriel marchi, estudante de Cibersegurança
 
 <div align="center">
   <a href="https://github.com/gaamarchi">
