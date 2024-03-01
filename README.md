@@ -22,4 +22,4 @@ Sou um aluno de defesa cibernética cursando o ultimo semestre. E um apaixonado 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Ja deu uma olhada no meu projeto mais recente?
-Uma web Api feita em dotnet, se quiser dar uma olhada [clique aqui](https://github.com/gaamarchi/my-simple-web-api)
+um Script python para pegar as informações contidas no mbr [clique aqui](https://github.com/gaamarchi/mbr-parser)
