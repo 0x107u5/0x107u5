@@ -3,7 +3,7 @@
 
 <h1 align="center"> Hey there! Call me Gabriel 😊</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=32font=Fira+Code&duration=3000&pause=1000&color=3b76c6&random=true&width=435&lines=I'm+software+engineer;I'm+CTF+Player;I'm+Cybersecurity+Enthusiast;I+love+solving+problems+through+code." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=26font=Fira+Code&duration=3000&pause=1000&width=463&height=68&color=3b76c6&random=true&width=435&lines=I'm+software+engineer;I'm+CTF+Player;I'm+Cybersecurity+Enthusiast;I+love+solving+problems." alt="Typing SVG" /></a>
 
 ```python
 #!/usr/bin/python
