@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001F3F&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3b76c6&height=120&section=header"/>
 
 
 <h1 align="center"> Hey there! Call me Gabriel 😊</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=003871&random=true&width=435&lines=I'm+software+engineer;I'm+CTF+Player;I'm+Cybersecurity+Enthusiast;I+love+solving+problems+through+code." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3b76c6&random=true&width=435&lines=I'm+software+engineer;I'm+CTF+Player;I'm+Cybersecurity+Enthusiast;I+love+solving+problems+through+code." alt="Typing SVG" /></a>
 
 ```python
 #!/usr/bin/python
@@ -91,4 +91,4 @@ me.say_hi()
 </a>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001F3F&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3b76c6&height=120&section=footer"/>
