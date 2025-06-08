@@ -26,7 +26,7 @@ me = Main()
 me.say_hi()
 ```
 
-<h1 align="center">📔 Latest Blog posts</h1>
+<h2 align="center">📔 Latest Blog posts</h2>
 <!-- BLOG-POST-LIST:START -->
 - It's coming
 <!-- BLOG-POST-LIST:END -->
