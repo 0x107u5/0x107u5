@@ -17,13 +17,25 @@ class Main:
         self.alias = "Lotus"
         self.role = ["SIEM engineer"]
         self.language_spoken = ["pt_BR", "en_US"]
+        self.assignments = [
+                "Threat hunting",
+                "Create use cases",
+                "Develop scripts",
+                "Tune SIEM alerts",
+                "Analyze logs",
+                "Investigate incidents"
+                ]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
-
+    def show_assignments(self):
+        print(f"\nAssignments of {self.name} ({', '.join(self.role)}):\n")
+        for i, assignment in enumerate(self.assignments, 1):
+            print(f"{i}. {assignment}")
 me = Main()
 me.say_hi()
+me.show_assignments()
 ```
 
 <h2 align="center">📔 Latest Blog posts</h2>
