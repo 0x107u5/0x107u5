@@ -15,7 +15,7 @@ class Main:
     def __init__(self):
         self.name = "Gabriel Marchi"
         self.alias = "Lotus"
-        self.role = ["software engineer"]
+        self.role = ["SIEM engineer"]
         self.language_spoken = ["pt_BR", "en_US"]
 
     def say_hi(self):
